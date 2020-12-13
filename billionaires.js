@@ -7,7 +7,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Amazon',
     industry: 'Technology',
-    image: '',
+    image: './images/bezos.jpg',
     age: 56
   },
   {
@@ -17,7 +17,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Microsoft',
     industry: 'Technology',
-    image: '',
+    image: './images/bill_gates.jpg',
     age: 64
   },
   {
@@ -27,7 +27,7 @@ export const billionaires = [
     country: 'France',
     source: 'LVMH',
     industry: 'Fashion & Retail',
-    image: '',
+    image: './images/bernard_arnault.jpg',
     age: 71
   },
   {
@@ -37,7 +37,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Berkeshire Hathaway',
     industry: 'Finance & Investments',
-    image: '',
+    image: './images/warren_buffet.jpg',
     age: 89
   },
   {
@@ -47,7 +47,7 @@ export const billionaires = [
     country: 'United States',
     source: 'software',
     industry: 'Technology',
-    image: '',
+    image: './images/larry_ellison.jpg',
     age: 75
   },
   {
@@ -57,7 +57,7 @@ export const billionaires = [
     country: 'Spain',
     source: 'Zara',
     industry: 'Fashion & Retail',
-    image: '',
+    image: './images/amancio_ortega.jpg',
     age: 84
   },
   {
@@ -67,7 +67,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Facebook',
     industry: 'Technology',
-    image: '',
+    image: './images/mark_zuckerberg.jpg',
     age: 35
   },
   {
@@ -77,7 +77,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Walmart',
     industry: 'Fashion & Retail',
-    image: '',
+    image: './images/jim_walton.jpg',
     age: 71
   },
   {
@@ -87,7 +87,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Walmart',
     industry: 'Fashion & Retail',
-    image: '',
+    image: './images/alice_walton.jpg',
     age: 70
   },
   {
@@ -97,7 +97,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Walmart',
     industry: 'Fashion & Retail',
-    image: '',
+    image: './images/rob_walton.jpg',
     age: 75
   },
   {
@@ -107,7 +107,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Microsoft',
     industry: 'Technology',
-    image: '',
+    image: './images/steve_ballmer.jpg',
     age: 64
   },
   {
@@ -117,7 +117,7 @@ export const billionaires = [
     country: 'Mexico',
     source: 'telecom',
     industry: 'Telecom',
-    image: '',
+    image: './images/carlos_slim.jpg',
     age: 80
   },
   {
@@ -127,7 +127,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Google',
     industry: 'Technology',
-    image: '',
+    image: './images/larry_page.jpg',
     age: 47
   },
   {
@@ -137,7 +137,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Google',
     industry: 'Technology',
-    image: '',
+    image: './images/sergey_brin.jpg',
     age: 46
   },
   {
@@ -147,7 +147,7 @@ export const billionaires = [
     country: 'France',
     source: "L'Oreal",
     industry: 'Fashion & Retail',
-    image: '',
+    image: './images/francoise bettencourt.jpg',
     age: 66
   },
   {
@@ -157,7 +157,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Bloomberg LP',
     industry: 'Meddia & Entertainment',
-    image: '',
+    image: './images/michael_bloomberg.jpg',
     age: 78
   },
   {
@@ -167,7 +167,7 @@ export const billionaires = [
     country: 'China',
     source: 'Alibaba',
     industry: 'Tecnology',
-    image: '',
+    image: './images/jack_ma.jpg',
     age: 55
   },
   {
@@ -177,7 +177,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Koch Industries',
     industry: 'Diversified',
-    image: '',
+    image: './images/charles_koch.jpg',
     age: 84
   },
   {
@@ -187,7 +187,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Koch Industries',
     industry: 'Diversified',
-    image: '',
+    image: './images/julia_koch.jpg',
     age: 57
   },
   {
@@ -197,7 +197,7 @@ export const billionaires = [
     country: 'China',
     source: 'internet media',
     industry: 'Technology',
-    image: '',
+    image: './images/ma_huateng.jpg',
     age: 48
   },
   {
@@ -207,7 +207,7 @@ export const billionaires = [
     country: 'India',
     source: 'petrochemicals, oil & gas',
     industry: 'Energy',
-    image: '',
+    image: './images/mukesh_ambani.jpg',
     age: 62
   },
   {
@@ -217,7 +217,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Amazon.com',
     industry: 'Technology',
-    image: '',
+    image: './images/mackenzie_scott.jpg',
     age: 50
   },
   {
@@ -227,7 +227,7 @@ export const billionaires = [
     country: 'Germany',
     source: 'supermarkets',
     industry: 'Fashion & Retail',
-    image: '',
+    image: './images/beate_heister.jpg',
     age: 69
   },
   {
@@ -237,7 +237,7 @@ export const billionaires = [
     country: 'Canada',
     source: 'media',
     industry: 'Media & Entertainment',
-    image: '',
+    image: './images/david_thomson.jpg',
     age: 62
   },
   {
@@ -247,7 +247,7 @@ export const billionaires = [
     country: 'United States',
     source: 'Nike',
     industry: 'Fashion & Retail',
-    image: '',
+    image: './images/paul_knight.jpg',
     age: 82
   },
   {
@@ -257,7 +257,7 @@ export const billionaires = [
     country: 'Honk Kong',
     source: 'real estate',
     industry: 'Real Estate',
-    image: '',
+    image: './images/lee_shau.jpg',
     age: 92
   },
   {
@@ -267,7 +267,7 @@ export const billionaires = [
     country: 'France',
     source: 'luxury goods',
     industry: 'Fashion & Retail',
-    image: '',
+    image: './images/francois_pinault.jpg',
     age: 83
   },
   {
@@ -277,7 +277,7 @@ export const billionaires = [
     country: 'United States',
     source: 'casinos',
     industry: 'Gambling & Casinos',
-    image: '',
+    image: './images/sheldon_adelson.jpg',
     age: 86
   },
   {
@@ -287,7 +287,7 @@ export const billionaires = [
     country: 'United States',
     source: 'candy, pet food',
     industry: 'Food & Beverage',
-    image: '',
+    image: './images/jacqueline_mars.jpg',
     age: 80
   },
   {
@@ -297,7 +297,7 @@ export const billionaires = [
     country: 'United States',
     source: 'candy, pet food',
     industry: 'Food & Beverage',
-    image: '',
+    image: './images/john_mars.jpg',
     age: 84
   }
 ]
